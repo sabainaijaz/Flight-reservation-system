@@ -1,0 +1,7 @@
+101,1,15,6,2023,0,Paris,Economy:400
+102,2,16,6,2023,5,Dubai,Economy:350
+103,3,17,6,2023,0,London,Economy:700
+104,2,12,12,2025,7,,Economy:600
+105,1,19,6,2023,0,Tokyo,Economy:700
+106,5,3,5,2025,0,London,Economy :600,Business:1000
+107,2,10,9,2023,7,Paris,Economy:800,Business :1500

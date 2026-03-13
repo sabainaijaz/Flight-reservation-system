@@ -1,0 +1,6 @@
+Beirut,Lebanon,Sunny,0,0
+Paris,France,Cloudy,5,2000
+New York,USA,Rainy,10,5000
+Tokyo,JAPAN,Cloudy,12,3000
+London,ENGLAND,Sunny,14,5000
+Dubai,UAE,Rainy,21,3500

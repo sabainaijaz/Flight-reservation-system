@@ -1,0 +1,5 @@
+1,Boeing 737,20,80
+2,Airbus A320,16,84
+3,Boeing 787,30,200
+4,Airbus A380,50,300
+5,Embraer E190,10,50
